@@ -10,7 +10,7 @@ namespace SistemaFuncionarios
         {
             Id = id;
             Nome = nome;
-            Salario = salarioBase;
+            SalarioBase = salarioBase;
             DepartamentoId = departamentoId;
         }
     }
